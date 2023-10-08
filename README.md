@@ -1,4 +1,4 @@
-R
+App Eatable-Products
 
 Design: here
 API endpoint: https://codeable-eatable-api.herokuapp.com
